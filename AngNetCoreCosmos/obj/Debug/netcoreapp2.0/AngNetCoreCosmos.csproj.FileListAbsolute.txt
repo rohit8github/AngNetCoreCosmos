@@ -1,0 +1,11 @@
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\bin\Debug\netcoreapp2.0\AngNetCoreCosmos.deps.json
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\bin\Debug\netcoreapp2.0\AngNetCoreCosmos.runtimeconfig.json
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\bin\Debug\netcoreapp2.0\AngNetCoreCosmos.runtimeconfig.dev.json
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\bin\Debug\netcoreapp2.0\AngNetCoreCosmos.dll
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\bin\Debug\netcoreapp2.0\AngNetCoreCosmos.pdb
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.csprojResolveAssemblyReference.cache
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.csproj.CoreCompileInputs.cache
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.AssemblyInfoInputs.cache
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.AssemblyInfo.cs
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.dll
+C:\C\Learn2reinvent\Dotnet\AngNetCoreCosmos\AngNetCoreCosmos\obj\Debug\netcoreapp2.0\AngNetCoreCosmos.pdb
